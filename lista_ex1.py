@@ -8,7 +8,7 @@ def entrada(vetor):
 
 def imprime(vetor):
   vetor_string = " ".join(map(str, vetor))
-  print(vetor_string)
+  print("Sequencial: ", vetor_string)
 
 
 entrada(vetor)
