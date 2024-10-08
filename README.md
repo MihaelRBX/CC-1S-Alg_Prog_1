@@ -1,4 +1,2 @@
-# Exerc-cios-Alg-e-Prog
-Exercícios para estudo de Algoritmos e Programação
-Graduando em Ciência da Computacão pelo Mackenzie SP.
-Majoring Computer Science in Mackenzie University Brazil.
+#Algoritmos e Programacao 1
+Projetos e exercicios do conteudo da materia do primeiro semestre de CC.
